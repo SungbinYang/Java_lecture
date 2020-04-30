@@ -20,15 +20,3 @@ insert student(name, dept)
 values ('김철수', '컴퓨터시스템'),
 	('최고봉', '멀티미디어'),
 	('이기자', '컴퓨터공학' );
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
